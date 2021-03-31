@@ -18,8 +18,10 @@ Welcome to the course GitHub page for __EC330: Urban & Regional Economic Problem
 
 ## Lectures
 
-After each lecture, I will post the slides below. I will post both a `.html` version and `.pdf` version of the slides -- the `.html` requires an internet connection to use. With the `.pdf` slides, you won't be able to view embedded interactive plots, but everything else should still work.
+After each lecture, I will post the slides below. 
 
 - __Week 1:__ _Intro & Review_
 
   - Lecture 1: [Introduction to Urban Economics](https://rawcdn.githack.com/johnmorehouse/EC330-S21/f447d4d98cf58f5fbe7f925a37419f4db543e9df/lectures/001-intro/lecture_one.html) 
+
+  - Lecture 2: [EC201 Review & The 5 Axioms of Urban Economics](https://github.com/johnmorehouse/EC330-S21/blob/main/lectures/002-review/lecture_two.html)
